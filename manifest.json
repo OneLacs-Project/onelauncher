@@ -1,6 +1,6 @@
 {
   "name": "MineLacs World",
-  "minecraft": "1.21.1",
+  "minecraft": "1.21.11",
   "fabric": "0.18.4",
   "serverIp": "go.minelacs.fun:20717",
   "mods": []
