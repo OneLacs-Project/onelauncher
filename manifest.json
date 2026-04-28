@@ -7,5 +7,5 @@
   "javaVersion": "21",
   "modsBaseUrl": "https://raw.githubusercontent.com/OneLacs-Project/onelauncher/main/mods",
   "serverIp": "go.minelacs.fun:20555",
-  "mods": []
+  "mods": {}
 }
