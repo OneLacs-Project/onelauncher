@@ -210,7 +210,7 @@
     "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar": "sha256:5625930dfb3240820d6e4ecf55fff0c39f70ce782fad117a4d418251184c7be0",
     "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar": "sha256:a9cab2fc01538368862365691f7d215309801aed0b390351681b6b60a1db7b58"
   },
-  "configFiles": {
+  "config": {
     "fancymenu/assets/button_200x20_off.png": "sha256:92e1ec6b714363b42f27bb7dfe2ea8a16401e5780a9256b9cd22e4f0af105734",
     "fancymenu/assets/button_200x20_on.png": "sha256:df12f450b98db28a5fa418cc7a79fd4a306f4b56dd822f124f4fd935839f0f74",
     "fancymenu/assets/button_20x20_off.png": "sha256:5a424bceb2f44ccff99c0f1b60512e3d12a3930785bc62cb130b65ad214c31a9",
