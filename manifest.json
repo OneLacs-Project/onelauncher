@@ -210,6 +210,9 @@
     "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar": "sha256:5625930dfb3240820d6e4ecf55fff0c39f70ce782fad117a4d418251184c7be0",
     "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar": "sha256:a9cab2fc01538368862365691f7d215309801aed0b390351681b6b60a1db7b58"
   },
+  "resourcepacks": {
+    "minelacsplus.zip": "sha256:0e2b67b955d61a8d1964a7ac52a6c7d1c076cddb0a9ab2b0ac1f66286cf0d427"
+  },
   "config": {
     "fancymenu/assets/button_200x20_off.png": "sha256:92e1ec6b714363b42f27bb7dfe2ea8a16401e5780a9256b9cd22e4f0af105734",
     "fancymenu/assets/button_200x20_on.png": "sha256:df12f450b98db28a5fa418cc7a79fd4a306f4b56dd822f124f4fd935839f0f74",
@@ -240,8 +243,5 @@
     "fancymenu/ui_themes/purple_void.json": "sha256:fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0",
     "fancymenu/ui_themes/spooky_season.json": "sha256:cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd",
     "fancymenu/user_variables.db": "sha256:3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
-  },
-  "resourcepacks": {
-    "minelacsplus.zip": "sha256:0e2b67b955d61a8d1964a7ac52a6c7d1c076cddb0a9ab2b0ac1f66286cf0d427"
   }
 }
