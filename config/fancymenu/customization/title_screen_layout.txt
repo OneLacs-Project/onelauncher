@@ -93,7 +93,7 @@ element {
 
 element {
   button_element_executable_block_identifier = cdb942b2-556a-4eec-ad67-1dd487962d90-1777060271117
-  [executable_action_instance:2883551e-0176-48cd-9682-910f80cbf9d1-1777060328373][action_type:joinserver] = go.minelacs.fun:20555
+  [executable_action_instance:2883551e-0176-48cd-9682-910f80cbf9d1-1777060328373][action_type:joinserver] = go.minelacs.fun:25111
   [executable_block:cdb942b2-556a-4eec-ad67-1dd487962d90-1777060271117][type:generic] = [executables:2883551e-0176-48cd-9682-910f80cbf9d1-1777060328373;]
   backgroundnormal = [source:local]/config/fancymenu/assets/button_20x20_server_on.png
   backgroundhovered = [source:local]/config/fancymenu/assets/button_20x20_server_on_2.png
@@ -105,7 +105,7 @@ element {
   navigatable = true
   widget_active_state_requirement_container_identifier = 032b584a-8eea-4480-bfeb-d8a31dd94ecc-1777060271117
   [loading_requirement_container_meta:032b584a-8eea-4480-bfeb-d8a31dd94ecc-1777060271117] = [groups:][instances:6b837e07-dbde-446e-b7fe-a09d5d845578-1777060437558;]
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:6b837e07-dbde-446e-b7fe-a09d5d845578-1777060437558] = go.minelacs.fun:20555
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][req_id:6b837e07-dbde-446e-b7fe-a09d5d845578-1777060437558] = go.minelacs.fun:25111
   is_template = false
   template_apply_width = false
   template_apply_height = false
