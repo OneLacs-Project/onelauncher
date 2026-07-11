@@ -1,12 +1,12 @@
 {
   "version": "2.0.0",
-  "name": "MineLacs Create&Aero",
-  "minecraft": "1.21.1",
-  "loader": "neoforge",
-  "neoforge": "21.1.229",
-  "javaVersion": "21",
+  "name": "MineLacs Spark",
+  "minecraft": "26.1.2",
+  "loader": "fabric",
+  "neoforge": "0.19.3",
+  "javaVersion": "25",
   "modsBaseUrl": "https://raw.githubusercontent.com/OneLacs-Project/onelauncher/main/mods",
-  "serverIp": "go.minelacs.fun:25111",
+  "serverIp": "go.minelacs.online:25565",
   "mods": {
     "abundant_atmosphere-1.21.1-2.0.0-beta-neoforge.jar": "sha256:6b9ca50f5345b9374b5759c4be1d20ade28ae90f49b355665db709c279a13c15",
     "aeronauticscompat-1.1.2.jar": "sha256:5eff8158a171f7520f5fafe2db66d8309983a0fbaa0bdcfd6e107b19b1466482",
